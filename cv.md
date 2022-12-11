@@ -1,7 +1,7 @@
 # CV
 
-![my-photo](https://iili.io/Hnp6u4V.jpg)
 
+![my-photo](https://iili.io/Hnp6tMx.jpg)
 ## **Ksenia Rojina**  
 *Future frontend developer*
 
