@@ -1,6 +1,7 @@
 # CV
 
-<img src="https://pics.freeicons.io/uploads/icons/png/44930878416297048213936-512.png" alt="my photo" width="150"/> 
+
+![my photo](/rsschool-cv/my%20photo.jpg)
 
 ## **Ksenia Rojina**  
 *Future frontend developer*
@@ -55,7 +56,7 @@ My goal is to use web technologies for developing socially significant projects 
   
 
 *Companies*:
-+ [Shutterstock](адрес "https://www.shutterstock.com/g/ksuper")
++ [Shutterstock]("https://www.shutterstock.com/g/ksuper")
 + Adobe Stock (ex-Fotolia)
 + iStock
 + Depositphotos
