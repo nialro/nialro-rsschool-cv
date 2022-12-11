@@ -5,9 +5,6 @@
 ## **Ksenia Rojina**  
 *Future frontend developer*
 
-
-
-
 ## Contacts
 E-mail: nialroe@gmail.com  
 Discord (*rs-school chat*): @nialro
