@@ -1,6 +1,6 @@
 # CV
 
-![my-photo](https://pics.freeicons.io/uploads/icons/png/44930878416297048213936-512.png)
+![my-photo](https://images.unsplash.com/photo-1508153460964-48ffffcb0829?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80)
 
 ## **Ksenia Rojina**  
 *Future frontend developer*
