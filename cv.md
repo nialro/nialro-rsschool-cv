@@ -6,6 +6,8 @@
 *Future frontend developer*
 
 
+
+
 ## Contacts
 E-mail: nialroe@gmail.com  
 Discord (*rs-school chat*): @nialro
@@ -55,7 +57,7 @@ My goal is to use web technologies for developing socially significant projects 
   
 
 *Companies*:
-+ [Shutterstock]("https://www.shutterstock.com/g/ksuper")
++ Shutterstock
 + Adobe Stock (ex-Fotolia)
 + iStock
 + Depositphotos
