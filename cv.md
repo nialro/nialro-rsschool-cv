@@ -1,8 +1,6 @@
 # CV
 
-
-<image src="/rsschool-cv/my-photo.jpg" alt="Текст с описанием картинки">
-
+<image src="https://picsum.photos/800/600" alt="Описание картинки">
 
 
 ## **Ksenia Rojina**  
