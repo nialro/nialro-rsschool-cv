@@ -4,22 +4,20 @@
 
 ## **Ksenia Rojina**  
 *Future frontend developer*
-<br>
-<br>
+
 
 ## Contacts
 E-mail: nialroe@gmail.com  
 Discord (*rs-school chat*): @nialro
-<br>
-<br>
+
+
 ##  About  
 I've been working as a freelance *Pixel Artist* and *Graphic Designer* since 2015.  
 Creativity is my friend.  
 Self-education is my passion.  
 I enjoy learning how things work.  
 My goal is to use web technologies for developing socially significant projects and personal art projects.
-<br>
-<br>
+
 ## Skills
 
 * Html, css basics  
@@ -31,10 +29,9 @@ My goal is to use web technologies for developing socially significant projects 
 * Adobe Bridge 
 * Aseprite
 * Tablet drawing (Wacom)
-<br>
-<br>
 
-## Code examples<br>
+
+## Code examples  
     <!DOCTYPE html> 
     <html lang="eng"> 
     
@@ -49,17 +46,16 @@ My goal is to use web technologies for developing socially significant projects 
     </body> 
     
     </html>
-<br>
 
 
 ## Work experience
 
- *2015 — present*  
+ 2015 — present  
 **Freelance Microstock Illustrator**   
   
 
 *Companies*:
-+ Shutterstock
++ [Shutterstock](адрес "https://www.shutterstock.com/g/ksuper")
 + Adobe Stock (ex-Fotolia)
 + iStock
 + Depositphotos
@@ -70,14 +66,12 @@ My goal is to use web technologies for developing socially significant projects 
 + Vector and raster graphic elements, assets, patterns creation in different styles (pixel art, cartoon, watercolor, lineart)
 + Creative drawing theme research
 + File attribution: description writing and keywording
-<br>
-<br>
+
 
 ## 7. Education
 
 Self-taught  
 
-<br> 
 
 ## 8. Languages
 Russian — Native  *(I'm good at writing texts and grammar checking)*  
