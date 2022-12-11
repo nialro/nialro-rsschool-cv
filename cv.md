@@ -4,6 +4,7 @@ Future frontend developer
 
 2. Contacts
 e-mail: nialroe@gmail.com
+discord: @nialro
 
 3. About
 I've been working as a freelance Pixel Artist and Graphic Designer since 2015.
@@ -26,11 +27,11 @@ Tablet drawing (wacom)
 
 
 5. Code examples
-
+`
 <!DOCTYPE html> <html lang="eng"> <head> <meta charset="UTF-8"> <title>Important message</title> </head> <body> <h1>Important message</h1> <p style="font-size: 18pt; color: #D8BFD8">Hey ho! Let's go! </p>
 </body> </html>
 
-
+`
 
 6. Work experience
 
