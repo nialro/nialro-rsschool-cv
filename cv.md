@@ -1,8 +1,6 @@
 # CV
 
-
-![Текст с описанием картинки](/rsschool-cv/my-photo.jpg)
-
+![my-photo](https://pics.freeicons.io/uploads/icons/png/44930878416297048213936-512.png)
 
 ## **Ksenia Rojina**  
 *Future frontend developer*
