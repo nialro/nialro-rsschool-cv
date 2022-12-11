@@ -1,7 +1,9 @@
 # CV
 
 
-![my photo](/rsschool-cv/my%20photo.jpg)
+<image src="/rsschool-cv/my-photo.jpg" alt="Текст с описанием картинки">
+
+
 
 ## **Ksenia Rojina**  
 *Future frontend developer*
