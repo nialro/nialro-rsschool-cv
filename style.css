@@ -1,2 +1,18 @@
 body {
-    font-family: 'Noto Sans', sans-serif;}
+    font-family: 'Noto Sans', sans-serif;
+}
+* {
+    box-sizing: border-box;
+  }
+
+  .header {
+    border: 1px solid blue;
+  }
+
+  .main {
+    border: 1px solid lightskyblue;
+  }
+  
+  .footer {
+    border: 1px solid green;
+  }
