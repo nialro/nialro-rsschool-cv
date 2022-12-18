@@ -6,13 +6,16 @@ body {
   }
 
   .header {
+    height: 300px;
     border: 1px solid blue;
   }
 
   .main {
+    height: 300px;
     border: 1px solid lightskyblue;
   }
   
   .footer {
+    height: 300px;
     border: 1px solid green;
   }
